@@ -1,0 +1,14 @@
+.title-green {
+    color: rgb(23, 235, 33)
+}
+
+body {
+    background-color: rgb(53, 48, 48);
+}
+
+#text-blue {
+    color: rgb(91, 91, 207);
+}
+#text-yellow {
+    color: yellow;
+}
